@@ -13,3 +13,8 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+.*.sw*
+.sw*
+.DS_Store
+bin/
